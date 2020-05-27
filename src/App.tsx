@@ -1,26 +1,40 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
+import terrier from './images/kyome_terrier.png';
 import './App.css';
+import { ToDoListItem } from './ToDoListItem';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+class App extends Component {
+    state = {
+        value: 0
+    };
+
+    handleIncrement = () => {
+        this.setState({
+            value: this.state.value + 1
+        });
+    }
+
+    handleDecrement = () => {
+        this.setState({
+            value: this.state.value - 1
+        });
+    }
+
+    render() {
+        return (<div className="App">
+        <img src={terrier} className="terrier" alt="terrier" />
+        <p>カウント：{this.state.value}</p>
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+        <button onClick={this.handleIncrement}>+</button>
+        <button onClick={this.handleDecrement}>-</button>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+        <ToDoListItem
+        title="ゴミ出し"
+        description="燃えるゴミは火曜日と金曜日"
+        />
+        </div>
+        );
+    }
 }
 
 export default App;
