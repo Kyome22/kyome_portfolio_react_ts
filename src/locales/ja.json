@@ -1,7 +1,12 @@
 {
-  "language_link": "English",
-  "profile_link": "プロフィール",
-  "works_link": "作品",
-  "articles_link": "記事",
-  "contact_link": "コンタクト"
+  "language": "English",
+  "profile": "プロフィール",
+  "works": "作品",
+  "articles": "記事",
+  "contact": "コンタクト",
+  "introduction_title": "自己紹介",
+  "introduction_text": "はじめまして。私は中村拓人(@Kyomesuke)と申します。",
+  "languages_title": "経験したことのある言語",
+  "frameworks_title": "よく使用する技術＆環境",
+  "skills_title": "ソフトウェアスキル"
 }

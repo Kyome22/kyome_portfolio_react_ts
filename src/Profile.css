@@ -1,0 +1,29 @@
+.profile {
+  padding: 5px 0px 20px;
+  background-color: #f2f2f2;
+}
+
+.profile h2.title {
+  margin: 0 auto;
+  padding: 15px 0px;
+  font-size: 45px;
+  color: #27292a;
+}
+
+.profile table.container {
+  margin: 0 auto;
+  padding-top: 0px;
+  width: 800px;
+  font-family: "Noto Sans Japanese";
+}
+
+.profile td.left {
+  width: 25%;
+  vertical-align: top;
+}
+
+.profile td.right {
+  width: 75%;
+  text-align: left;
+  vertical-align: top;
+}

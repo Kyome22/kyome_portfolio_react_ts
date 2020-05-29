@@ -1,7 +1,12 @@
 {
-  "language_link": "日本語",
-  "profile_link": "Profile",
-  "works_link": "Works",
-  "articles_link": "Articles",
-  "contact_link": "Contact"
+  "language": "日本語",
+  "profile": "Profile",
+  "works": "Works",
+  "articles": "Articles",
+  "contact": "Contact",
+  "introduction_title": "Self‐introduction",
+  "introduction_text": "Nice to meet you. My name is Takuto Nakamura",
+  "languages_title": "Programming Languages",
+  "frameworks_title": "Frameworks & Environments",
+  "skills_title": "Software Skills"
 }
