@@ -1,5 +1,6 @@
 import React from "react";
 import "./Header.css";
+import terrier from "./images/kyome_terrier.png";
 
 type Props = {
   language: string;
@@ -12,25 +13,15 @@ type Props = {
 export function Header(props: Props) {
   const { language, profile, works, articles, contact } = props;
 
-  // handleLanguage = () => {
-  //     this.setState({
-  //         localize
-  //     })
-  // }
-
   return (
     <div className="header">
-      <div className="left-elements">
-        <h2 className="title">Takuto Nakamura's Portfolio</h2>
-      </div>
-
-      <div className="right-elements">
-        <h2>{language}</h2>
-        <h2>{profile}</h2>
-        <h2>{works}</h2>
-        <h2>{articles}</h2>
-        <h2>{contact}</h2>
-      </div>
+      <canvas id="terrier" />
+      <h2 className="title">Takuto Nakamura's Portfolio</h2>
+      <h3>{language}</h3>
+      <h3>{profile}</h3>
+      <h3>{works}</h3>
+      <h3>{articles}</h3>
+      <h3>{contact}</h3>
     </div>
   );
 }

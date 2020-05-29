@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import terrier from "./images/kyome_terrier.png";
 import "./App.css";
 import { Header } from "./Header";
 import jp from "./localize/jp.json";

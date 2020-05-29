@@ -1,8 +1,4 @@
 .App {
   text-align: center;
-}
-
-.terrier {
-  width: 100px;
-  height: auto;
+  font-family: "Exo 2", sans-serif;
 }
