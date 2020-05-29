@@ -9,12 +9,6 @@ type Props = {
   contact: string;
 };
 
-const Test = () => (
-  <div>
-    <p>Test</p>
-  </div>
-);
-
 export function Header(props: Props) {
   const { language, profile, works, articles, contact } = props;
 
