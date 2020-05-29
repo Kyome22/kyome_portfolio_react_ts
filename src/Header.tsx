@@ -15,7 +15,9 @@ export function Header(props: Props) {
 
   return (
     <div className="header">
-      <canvas id="terrier" />
+      <div className="terrier-container">
+        <img className="terrier-target" src={terrier} alt="dog icon" />
+      </div>
       <h2 className="title">Takuto Nakamura's Portfolio</h2>
       <h3>{language}</h3>
       <h3>{profile}</h3>
