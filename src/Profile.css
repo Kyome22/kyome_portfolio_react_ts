@@ -1,5 +1,6 @@
 .profile {
   padding: 5px 0px 20px;
+  color: #414040;
   background-color: #f2f2f2;
 }
 
@@ -8,6 +9,13 @@
   padding: 15px 0px;
   font-size: 45px;
   color: #27292a;
+}
+
+.profile h3.subTitle {
+  margin: 0 auto;
+  padding: 0px;
+  font-size: 35px;
+  color: #373737;
 }
 
 .profile table.container {
@@ -25,5 +33,17 @@
 .profile td.right {
   width: 75%;
   text-align: left;
+  font-size: 20px;
   vertical-align: top;
+}
+
+.profile p.introduction {
+  text-indent: 1em;
+  text-indent: 1em;
+  text-align: justify;
+  hyphens: auto;
+}
+
+.profile a {
+  color: #414040;
 }

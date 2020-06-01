@@ -1,0 +1,16 @@
+{
+  "language": "日本語",
+  "profile": "Profile",
+  "works": "Works",
+  "articles": "Articles",
+  "contact": "Contact",
+  "introduction_title": "Self‐introduction",
+  "introduction_text1": "Nice to meet you. My name is Takuto Nakamura (",
+  "introduction_text2": "). When I was a junior high school student and first got the iPhone 3G, I decided to become an engineer and make applications with my own hands. I mainly develop native apps for macOS, iOS and Android. Sometimes develop web front-end, and use microcomputers such as the Arduino and the mbed as research. I often use Swift and JavaScript as programming languages. I'm trying to use any development environment if necessary.",
+  "introduction_text3": "Basically, I specialize in macOS application development more than iOS. In particular, there is a tendency to stick to the development of utility applications with very few development tips, such as agent (background) applications and software keyboards. I'm making it habit to publish my findings according to \"",
+  "introduction_text4": "\".",
+  "hacker": "How to Become A Hacker",
+  "languages_title": "Programming Languages",
+  "frameworks_title": "Frameworks & Environments",
+  "skills_title": "Software Skills"
+}

@@ -1,0 +1,16 @@
+{
+  "language": "English",
+  "profile": "プロフィール",
+  "works": "作品",
+  "articles": "記事",
+  "contact": "コンタクト",
+  "introduction_title": "自己紹介",
+  "introduction_text1": "はじめまして。私は中村拓人(",
+  "introduction_text2": ")と申します。中学時代に国内で発売されたiPhone 3Gを初めて手にした際、アプリを自分の手で作りたいと決意したことがきっかけでプログラミングの世界に足を踏み入れました。主にiOS・macOS・Android向けのネイティブアプリ開発をしており、時々Webフロントエンド開発やArduinoやmbedなどのマイコンいじりをしています。言語はSwiftとJavaScriptを使用することが多いです。必要であればどんな開発環境にも挑戦しています。",
+  "introduction_text3": "基本的にはiOSよりもmacOSアプリ開発を専門としています。また、常駐型アプリやソフトウェアキーボードなど、若干マニアックなユーティリティ開発に執着する傾向があります。『",
+  "introduction_text4": "』に挙げられている「ハッカー的心構え」に倣い、得た知見はQiitaなどで公開するよう心がけています。",
+  "hacker": "ハッカーになろう",
+  "languages_title": "経験したことのある言語",
+  "frameworks_title": "よく使用する技術＆環境",
+  "skills_title": "ソフトウェアスキル"
+}
