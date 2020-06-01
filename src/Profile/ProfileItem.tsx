@@ -1,10 +1,10 @@
 import React from "react";
-import { EnumValue, ProfileEnum } from "./ProfileEnum";
+import { ProfileEnumValue, ProfileEnum } from "./ProfileEnum";
 import "./ProfileItem.css";
 
 type Props = {
   title: string;
-  values: EnumValue[];
+  values: ProfileEnumValue[];
 };
 
 export function ProfileItem(props: Props) {

@@ -1,11 +1,10 @@
 import React from "react";
-import selfie from "./images/selfie.png";
+import selfie from "../images/selfie.png";
 import { ProfileItem } from "./ProfileItem";
-import { EnumValue } from "./ProfileEnum";
 import "./Profile.css";
-import languages from "./json/languages.json";
-import frameworks from "./json/frameworks.json";
-import skills from "./json/skills.json";
+import languages from "../json/languages.json";
+import frameworks from "../json/frameworks.json";
+import skills from "../json/skills.json";
 
 type Props = {
   title: string;

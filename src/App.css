@@ -2,3 +2,9 @@
   text-align: center;
   font-family: "Exo 2", sans-serif;
 }
+
+.App div.dummyHeader {
+  margin: 0;
+  padding: 0;
+  height: 80px;
+}

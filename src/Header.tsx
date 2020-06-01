@@ -7,12 +7,12 @@ type Props = {
   profile: string;
   works: string;
   articles: string;
-  contact: string;
+  links: string;
   onLangChange: () => void;
 };
 
 export function Header(props: Props) {
-  const { language, profile, works, articles, contact, onLangChange } = props;
+  const { language, profile, works, articles, links, onLangChange } = props;
 
   return (
     <div className="header">
@@ -24,7 +24,7 @@ export function Header(props: Props) {
       <h3>{profile}</h3>
       <h3>{works}</h3>
       <h3>{articles}</h3>
-      <h3 className="last">{contact}</h3>
+      <h3 className="last">{links}</h3>
     </div>
   );
 }
