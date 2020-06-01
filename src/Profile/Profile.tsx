@@ -40,7 +40,7 @@ export function Profile(props: Props) {
         <tbody>
           <tr>
             <td className="left">
-              <img src={selfie} alt="dog icon" />
+              <img src={selfie} alt="selfie image" />
             </td>
             <td className="right">
               <h3 className="subTitle">{introduction_title}</h3>
