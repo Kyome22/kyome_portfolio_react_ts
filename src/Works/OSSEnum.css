@@ -1,0 +1,13 @@
+.ossEnum {
+  margin: 4px;
+  font-size: 22px;
+}
+
+.ossEnum span.title {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.ossEnum a {
+  color: #e9e9e9;
+}

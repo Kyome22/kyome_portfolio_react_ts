@@ -12,5 +12,12 @@
   "hacker": "ハッカーになろう",
   "languages_title": "経験したことのある言語",
   "frameworks_title": "よく使用する技術＆環境",
-  "skills_title": "ソフトウェアスキル"
+  "skills_title": "ソフトウェアスキル",
+  "oss_title": "オープンソースソフトウェア",
+  "OpenMultitouchSupport": "タッチパッドハックの成果物。",
+  "SpiceKey": "macOS用のグローバルショートカット登録ライブラリ。",
+  "ActivityKit": "macOSのシステム情報を取得するためのライブラリ。",
+  "SerialGate": "macOS用のシリアル通信ライブラリ。",
+  "Kaede": "iOS向けの日本語入力システム。",
+  "BooleanPath": "NSBezierPathにパスファインダーを適用するライブラリ。"
 }

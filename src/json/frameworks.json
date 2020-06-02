@@ -4,6 +4,10 @@
     "content": "CoreML, CreateML, CoreBluetooth, Realm"
   },
   {
+    "title": "Front-end:",
+    "content": "React, Redux"
+  },
+  {
     "title": "Back-end:",
     "content": "Node.js, SQLite"
   },

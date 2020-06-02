@@ -12,5 +12,12 @@
   "hacker": "How to Become A Hacker",
   "languages_title": "Programming Languages",
   "frameworks_title": "Frameworks & Environments",
-  "skills_title": "Software Skills"
+  "skills_title": "Software Skills",
+  "oss_title": "Open Source Software",
+  "OpenMultitouchSupport": "The fruit of hacking the touchpad.",
+  "SpiceKey": "Global Shortcuts Library for macOS written by Swift.",
+  "ActivityKit": "It provides macOS system information.",
+  "SerialGate": "Serial Communication Library for macOS written in Swift.",
+  "Kaede": "Japanese IME Project; Romaji -> Kana -> Kanaji",
+  "BooleanPath": "Add boolean operations to NSBezierPath."
 }

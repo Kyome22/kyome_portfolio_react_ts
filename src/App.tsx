@@ -21,7 +21,7 @@ i18n.use(initReactI18next).init({
 });
 
 const App: React.FC = () => {
-  const [t, i18n] = useTranslation();
+  const { i18n } = useTranslation();
   const [lang, setLang] = useState("ja");
 
   useEffect(() => {
@@ -30,29 +30,11 @@ const App: React.FC = () => {
 
   return (
     <div className="App">
-      <Header
-        language={t("language")}
-        profile={t("profile")}
-        works={t("works")}
-        articles={t("articles")}
-        links={t("links")}
-        onLangChange={() => setLang(lang === "en" ? "ja" : "en")}
-      />
+      <Header onLangChange={() => setLang(lang === "en" ? "ja" : "en")} />
       <div className="dummyHeader" />
-      <Profile
-        title={t("profile")}
-        introduction_title={t("introduction_title")}
-        introduction_text1={t("introduction_text1")}
-        introduction_text2={t("introduction_text2")}
-        introduction_text3={t("introduction_text3")}
-        introduction_text4={t("introduction_text4")}
-        hacker={t("hacker")}
-        languages_title={t("languages_title")}
-        frameworks_title={t("frameworks_title")}
-        skills_title={t("skills_title")}
-      />
-      <Works title={t("works")} />
-      <Links title={t("links")} />
+      <Profile />
+      <Works />
+      <Links />
     </div>
   );
 };
