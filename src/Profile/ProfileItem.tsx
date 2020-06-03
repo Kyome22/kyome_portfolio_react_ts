@@ -1,6 +1,5 @@
 import React from "react";
 import { ProfileEnumValue, ProfileEnum } from "./ProfileEnum";
-import "./ProfileItem.css";
 
 type Props = {
   title: string;

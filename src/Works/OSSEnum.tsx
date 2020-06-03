@@ -12,7 +12,7 @@ export function OSSEnum(props: Props) {
 
   return (
     <p className="ossEnum">
-      <a href={url}>{title}</a>
+      <a href={url}>{title}:</a>
       {content}
     </p>
   );
