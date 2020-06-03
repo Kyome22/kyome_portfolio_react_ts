@@ -1,6 +1,5 @@
 import React from "react";
 import "./Header.css";
-import terrier from "./images/kyome_terrier.png";
 import { useTranslation } from "react-i18next";
 
 type Props = {
@@ -14,7 +13,11 @@ export function Header(props: Props) {
   return (
     <div className="header">
       <div className="terrier-container">
-        <img className="terrier-target" src={terrier} alt="dog icon" />
+        <img
+          className="terrier-target"
+          src={`${process.env.PUBLIC_URL}/images/kyome_terrier.png`}
+          alt="dog icon"
+        />
       </div>
       <h2 className="title">Takuto Nakamura's Portfolio</h2>
       <h3 onClick={onLangChange}>{t("language")}</h3>

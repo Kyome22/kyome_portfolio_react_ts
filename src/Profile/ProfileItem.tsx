@@ -9,8 +9,8 @@ type Props = {
 export function ProfileItem(props: Props) {
   const { title, values } = props;
 
-  const enums = values.map(({ title, content }) => (
-    <ProfileEnum title={title} content={content} />
+  const enums = values.map(({ title, content }, i) => (
+    <ProfileEnum key={i} title={title} content={content} />
   ));
 
   return (

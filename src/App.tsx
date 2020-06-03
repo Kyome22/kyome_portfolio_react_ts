@@ -33,7 +33,7 @@ const App: React.FC = () => {
       <Header onLangChange={() => setLang(lang === "en" ? "ja" : "en")} />
       <div className="dummyHeader" />
       <Profile />
-      <Works />
+      <Works lang={lang} />
       <Links />
     </div>
   );

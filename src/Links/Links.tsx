@@ -1,14 +1,14 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import { LinkEnumValue, LinkEnum } from "./LinkEnum";
+import { LinkEnum, LinkEnumValue } from "./LinkEnum";
 import "./Links.css";
 import links from "../json/links.json";
 
 export function Links() {
   const { t } = useTranslation();
 
-  const enums = (links as LinkEnumValue[]).map(({ title, url, content }) => (
-    <LinkEnum title={title} url={url} content={content} />
+  const enums = (links as LinkEnumValue[]).map(({ title, url, content }, i) => (
+    <LinkEnum key={i} title={title} url={url} content={content} />
   ));
 
   return (

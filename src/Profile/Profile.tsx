@@ -1,6 +1,5 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import selfie from "../images/selfie.png";
 import { ProfileItem } from "./ProfileItem";
 import "./Profile.css";
 
@@ -18,22 +17,22 @@ export function Profile() {
         <tbody>
           <tr>
             <td className="left">
-              <img src={selfie} alt="selfieImage" />
+              <img
+                src={`${process.env.PUBLIC_URL}/images/selfie.png`}
+                alt="selfieImage"
+              />
             </td>
             <td className="right">
               <h3 className="subTitle">{t("introduction_title")}</h3>
-              <p className="introduction">
-                {t("introduction_text1")}
-                <a href="https://twitter.com/Kyomesuke\">@Kyomesuke</a>
-                {t("introduction_text2")}
-              </p>
-              <p className="introduction">
-                {t("introduction_text3")}
-                <a href="https://cruel.org/freeware/hacker.html">
-                  {t("hacker")}
-                </a>
-                {t("introduction_text4")}
-              </p>
+
+              <p
+                className="introduction"
+                dangerouslySetInnerHTML={{ __html: t("introduction_text1") }}
+              />
+              <p
+                className="introduction"
+                dangerouslySetInnerHTML={{ __html: t("introduction_text2") }}
+              />
               <ProfileItem title={t("languages_title")} values={languages} />
               <ProfileItem title={t("frameworks_title")} values={frameworks} />
               <ProfileItem title={t("skills_title")} values={skills} />

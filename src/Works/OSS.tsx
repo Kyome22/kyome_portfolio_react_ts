@@ -12,8 +12,8 @@ type LinkEnumValue = {
 export function OSS() {
   const { t } = useTranslation();
 
-  const enums = (oss as LinkEnumValue[]).map(({ title, url }) => (
-    <OSSEnum title={title} url={url} content={t(title)} />
+  const enums = (oss as LinkEnumValue[]).map(({ title, url }, i) => (
+    <OSSEnum key={i} title={title} url={url} content={t(title)} />
   ));
 
   return (
