@@ -174,5 +174,31 @@
       "image": "web/presentimer.png",
       "description": "プレゼンテーションの練習用のタイマー。無駄がない設計。"
     }
+  ],
+  "minecraft": [
+    {
+      "name": "ワードプロセッサ",
+      "url": "https://youtu.be/fzAdXdbl_Do",
+      "image": "minecraft/wordprocessor.png",
+      "description": ""
+    },
+    {
+      "name": "ワードプロセッサ改良型",
+      "url": "https://youtu.be/birn0V3b8s0",
+      "image": "minecraft/wordprocessor2.png",
+      "description": ""
+    },
+    {
+      "name": "マインスイーパー",
+      "url": "https://youtu.be/05TLv8Ldu-g",
+      "image": "minecraft/minesweeper.png",
+      "description": ""
+    },
+    {
+      "name": "アーケード音楽ゲーム機",
+      "url": "https://youtu.be/K70Sx_L9VPo",
+      "image": "minecraft/musicgame.png",
+      "description": ""
+    }
   ]
 }

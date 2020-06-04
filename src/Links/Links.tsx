@@ -12,7 +12,7 @@ export function Links() {
   ));
 
   return (
-    <div className="links">
+    <div className="links" id="linksSection">
       <h2 className="title">{t("links")}</h2>
       <div className="enums">{enums}</div>
     </div>

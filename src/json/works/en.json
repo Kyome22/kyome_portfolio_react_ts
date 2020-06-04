@@ -174,5 +174,31 @@
       "image": "web/presentimer.png",
       "description": "Timer for presentation practice. Design without waste."
     }
+  ],
+  "minecraft": [
+    {
+      "name": "Word Processor",
+      "url": "https://youtu.be/fzAdXdbl_Do",
+      "image": "minecraft/wordprocessor.png",
+      "description": ""
+    },
+    {
+      "name": "Improved Word Processor",
+      "url": "https://youtu.be/birn0V3b8s0",
+      "image": "minecraft/wordprocessor2.png",
+      "description": ""
+    },
+    {
+      "name": "Minesweeper",
+      "url": "https://youtu.be/05TLv8Ldu-g",
+      "image": "minecraft/minesweeper.png",
+      "description": ""
+    },
+    {
+      "name": "Arcade Music Game Console",
+      "url": "https://youtu.be/K70Sx_L9VPo",
+      "image": "minecraft/musicgame.png",
+      "description": ""
+    }
   ]
 }

@@ -33,16 +33,24 @@ export function Published(props: Props) {
   };
 
   const tds = (row: PublishedEnumValue[]) => {
-    return row.map((enumValue, i) => (
-      <td key={i}>
-        <a href={enumValue.url}>
-          <img src={"images/" + enumValue.image} />
-          <br />
-          {enumValue.name}
-        </a>
-        <p dangerouslySetInnerHTML={{ __html: enumValue.description }} />
-      </td>
-    ));
+    return row.map((enumValue, i) => {
+      const isEmptyDesc = enumValue.description === "";
+      return (
+        <td key={i}>
+          <a href={enumValue.url}>
+            <img
+              className={isEmptyDesc ? "minecraft" : "app"}
+              src={"images/" + enumValue.image}
+            />
+            <br />
+            {enumValue.name}
+          </a>
+          {!isEmptyDesc && (
+            <p dangerouslySetInnerHTML={{ __html: enumValue.description }} />
+          )}
+        </td>
+      );
+    });
   };
 
   return (

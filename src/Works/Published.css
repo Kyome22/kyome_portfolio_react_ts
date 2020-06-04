@@ -3,7 +3,7 @@
 }
 
 .published h3.subTitle {
-  margin: 0 auto;
+  margin: 5px auto;
   padding: 0px;
   font-size: 35px;
   color: #373737;
@@ -29,7 +29,12 @@
   color: #414040;
 }
 
-.published td img {
+.published td img.app {
   width: 100px;
+  height: auto;
+}
+
+.published td img.minecraft {
+  width: 200px;
   height: auto;
 }

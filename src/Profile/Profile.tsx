@@ -11,7 +11,7 @@ export function Profile() {
   const { t } = useTranslation();
 
   return (
-    <div className="profile">
+    <div className="profile" id="profileSection">
       <h2 className="title">{t("profile")}</h2>
       <table className="container">
         <tbody>
