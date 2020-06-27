@@ -1,0 +1,204 @@
+{
+  "macOS": [
+    {
+      "name": "RunCat",
+      "url": "https://kyome.io/runcat/index_jp.html",
+      "image": "macos/runcat.png",
+      "description": "メニューバーに表示されるネコの走り方でMacのCPU使用率がわかるユーティリティアプリ。"
+    },
+    {
+      "name": "TweetShot",
+      "url": "https://kyome.io/tweetshot/index_jp.html",
+      "image": "macos/tweetshot.png",
+      "description": "高速ツイートに特化したTwitterクライアントアプリ。"
+    },
+    {
+      "name": "ScreenPointer",
+      "url": "https://kyome.io/screen_pointer/index_jp.html",
+      "image": "macos/screenpointer.png",
+      "description": "ショートカットでマウスカーソルをポインターにできるプレゼンテーション支援アプリ。"
+    },
+    {
+      "name": "Measurist",
+      "url": "https://apps.apple.com/jp/app/measurist/id1423823777",
+      "image": "macos/measurist.png",
+      "description": "画面に定規や分度器を表示できるユーティリティアプリ。"
+    },
+    {
+      "name": "GIFlash",
+      "url": "https://apps.apple.com/jp/app/giflash/id1507246566",
+      "image": "macos/giflash.png",
+      "description": "画像や動画からGIFアニメーションを簡単に作成できるツール。"
+    },
+    {
+      "name": "APNG Maker",
+      "url": "https://apps.apple.com/jp/app/apng-maker/id1510778890",
+      "image": "macos/apng_maker.png",
+      "description": "画像や動画からAnimated PNGを簡単に作成できるツール。"
+    },
+    {
+      "name": "QuickMIDI",
+      "url": "https://apps.apple.com/jp/app/quickmidi/id1459790045",
+      "image": "macos/quickmidi.png",
+      "description": "常駐型MIDIキーボードプレイヤー。"
+    },
+    {
+      "name": "ScreenNote",
+      "url": "https://apps.apple.com/jp/app/screennote/id1258500140",
+      "image": "macos/screennote.png",
+      "description": "デスクトップをキャンバスにしてお絵かきができるツール。"
+    },
+    {
+      "name": "Movpeg4",
+      "url": "https://apps.apple.com/jp/app/movpeg4/id1444944504",
+      "image": "macos/movpeg4.png",
+      "description": "MOVファイルをMP4ファイルに一瞬で変換できる動画変換アプリ。"
+    },
+    {
+      "name": "GitGrass",
+      "url": "https://github.com/Kyome22/GitGrass",
+      "image": "macos/gitgrass.png",
+      "description": "GitHubの草（コントリビューション）をメニューバーで確認できるツール。<br><a href='./resources/GitGrass_ver1.dmg' download='GitGrass_ver1.dmg'>ダウンロード</a>"
+    },
+    {
+      "name": "TidyAgent",
+      "url": "https://apps.apple.com/jp/app/tidyagent/id1490212946",
+      "image": "macos/tidyagent.png",
+      "description": "デスクトップを一瞬で綺麗にするユーティリティアプリ。"
+    },
+    {
+      "name": "SecretDesktop",
+      "url": "https://apps.apple.com/jp/app/secretdesktop/id1469900735",
+      "image": "macos/secret_desktop.png",
+      "description": "デスクトップのアイコンを一時的に隠せるユーティリティアプリ。"
+    },
+    {
+      "name": "NixieStats",
+      "url": "https://apps.apple.com/jp/app/nixiestats/id1486093880",
+      "image": "macos/nixiestats.png",
+      "description": "ニキシー管風のアクティビティインジケータ。"
+    },
+    {
+      "name": "Nekobot",
+      "url": "https://kyome.io/nekobot/index.html",
+      "image": "macos/nekobot.png",
+      "description": "にゃん にゃん にゃん。"
+    },
+    {
+      "name": "ScanTextFromImage",
+      "url": "https://github.com/Kyome22/ScanTextFromImage",
+      "image": "macos/scan_text.png",
+      "description": "スクリーンショットをOCRして文字列をクリップボードに保存するやつ。<br><a href='./resources/ScanTextFromImage_ver1.0.dmg' download='ScanTextFromImage_ver1.0.dmg'>ダウンロード</a>"
+    }
+  ],
+  "iOS": [
+    {
+      "name": "Slantock",
+      "url": "https://apps.apple.com/jp/app/slantock-new-falling-block-puzzle/id1203150473",
+      "image": "ios/slantock.png",
+      "description": "テトリスを斜めにしたような新感覚の落ちものパズルゲーム。（初めてAppStoreにリリースした作品）"
+    },
+    {
+      "name": "Keyboard×2",
+      "url": "http://kyome.io/keyboardx2/index_jp.html",
+      "image": "ios/keyboardx2.png",
+      "description": "実際に弾くことができるピアノの機能を持ったソフトウェアキーボード。"
+    },
+    {
+      "name": "MojiPhoto",
+      "url": "https://apps.apple.com/jp/app/mojiphoto/id1443208901",
+      "image": "ios/mojiphoto.png",
+      "description": "撮影した写真やアルバムの画像をアスキーアートに変換できるツール。"
+    },
+    {
+      "name": "Forethumb",
+      "url": "https://kyome.io/forethumb_ios/index_jp.html",
+      "image": "ios/forethumb.png",
+      "description": "モールス信号で文字を入力可能にするソフトウェアキーボード。日本語入力には<a href='https://github.com/Kyome22/Kaede'>Kaede</a>を使用。"
+    },
+    {
+      "name": "ふぉ〜さむ いろは",
+      "url": "https://kyome.io/forethumb_iroha/index.html",
+      "image": "ios/iroha.png",
+      "description": "モールス信号で文字を入力可能にするソフトウェアキーボードForethumbの和文版。"
+    },
+    {
+      "name": "RoaringZaurus",
+      "url": "https://apps.apple.com/us/app/roaringzaurus/id1273772980",
+      "image": "ios/roaring.png",
+      "description": "障害物を避けながら恐竜を走らせるミニゲーム。"
+    },
+    {
+      "name": "MorseConverter",
+      "url": "https://apps.apple.com/us/app/morseconverter/id1323511370",
+      "image": "ios/morseconverter.png",
+      "description": "ローマ字とモールス符号を相互変換する謎のツール。"
+    },
+    {
+      "name": "レコアカ",
+      "url": "https://apps.apple.com/jp/app/%E3%83%AC%E3%82%B3%E3%82%A2%E3%82%AB-%E5%AE%B6%E8%A8%88%E7%B0%BF%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA/id1237443649",
+      "image": "ios/recoaka.png",
+      "description": "音声で家計簿をつけることができるユーティリティアプリ。"
+    }
+  ],
+  "android": [
+    {
+      "name": "Forethumb",
+      "url": "https://kyome.io/forethumb_android/index_jp.html",
+      "image": "android/forethumb.png",
+      "description": "モールス信号で文字を入力可能にするソフトウェアキーボードのAndroid版。"
+    }
+  ],
+  "web": [
+    {
+      "name": "ImageConverter",
+      "url": "http://imageconverter.pictures",
+      "image": "web/imageconverter.png",
+      "description": "アプリの開発に必要なサイズの画像を自動で生成してパッケージ化してくれるツール。"
+    },
+    {
+      "name": "SVG Converter",
+      "url": "http://svg-converter.kyome.io",
+      "image": "web/svg_converter.png",
+      "description": "SVGのpathの生データを貼り付けるとSwiftで扱えるコードに変換して出力してくれるツール。"
+    },
+    {
+      "name": "Paper Support Tool",
+      "url": "https://paper-support-tool.github.io/",
+      "image": "web/paper_support_tool.png",
+      "description": "翻訳したり文章整形したり論文読みをサポートするツール。"
+    },
+    {
+      "name": "プレゼンタイマー",
+      "url": "https://presentimer.github.io/",
+      "image": "web/presentimer.png",
+      "description": "プレゼンテーションの練習用のタイマー。無駄がない設計。"
+    }
+  ],
+  "minecraft": [
+    {
+      "name": "ワードプロセッサ",
+      "url": "https://youtu.be/fzAdXdbl_Do",
+      "image": "minecraft/wordprocessor.png",
+      "description": ""
+    },
+    {
+      "name": "ワードプロセッサ改良型",
+      "url": "https://youtu.be/birn0V3b8s0",
+      "image": "minecraft/wordprocessor2.png",
+      "description": ""
+    },
+    {
+      "name": "マインスイーパー",
+      "url": "https://youtu.be/05TLv8Ldu-g",
+      "image": "minecraft/minesweeper.png",
+      "description": ""
+    },
+    {
+      "name": "アーケード音楽ゲーム機",
+      "url": "https://youtu.be/K70Sx_L9VPo",
+      "image": "minecraft/musicgame.png",
+      "description": ""
+    }
+  ]
+}

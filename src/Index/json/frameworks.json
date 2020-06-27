@@ -1,0 +1,30 @@
+[
+  {
+    "title": "macOS/iOS:",
+    "content": "CoreML, CreateML, CoreBluetooth, Realm"
+  },
+  {
+    "title": "Front-end:",
+    "content": "React, Redux"
+  },
+  {
+    "title": "Back-end:",
+    "content": "Node.js, SQLite"
+  },
+  {
+    "title": "IDE:",
+    "content": "Xcode, AndroidStudio, Xamarin"
+  },
+  {
+    "title": "Editor:",
+    "content": "Vim, Visual Studio Code, MacDown, TexPad"
+  },
+  {
+    "title": "Cloud:",
+    "content": "GitHub, AWS, DropBox"
+  },
+  {
+    "title": "Microcomputer:",
+    "content": "Arduino, mbed, RaspberryPi"
+  }
+]

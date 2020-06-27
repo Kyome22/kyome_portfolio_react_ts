@@ -1,0 +1,55 @@
+.header {
+  position: fixed;
+  width: 100%;
+  min-width: 850px;
+  height: 80px;
+  text-align: left;
+  color: #27292a;
+  background-color: #e4bc2c;
+  display: flex;
+}
+
+.header h2,
+h3 {
+  margin: 0px 5px 0px 5px;
+  line-height: 80px;
+}
+
+.terrier-container {
+  margin: 15px 5px 15px 15px;
+  width: 50px;
+  height: 50px;
+}
+
+.terrier-target {
+  width: 50px;
+  height: 50px;
+}
+
+.terrier-container:hover .terrier-target {
+  transition: 0.5s;
+  transform: rotate(720deg);
+}
+
+.header .title {
+  margin-right: auto;
+}
+
+.header h3.language:hover,
+h3.articles:hover {
+  cursor: pointer;
+  color: #666666;
+}
+
+.header a {
+  color: #27292a;
+  text-decoration: none;
+}
+
+.header a:hover {
+  color: #666666;
+}
+
+.header h3.last {
+  margin-right: 15px;
+}

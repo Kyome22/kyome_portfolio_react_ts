@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Native:",
+    "content": "Swift / AppleScript / Objective-C / C# / Java"
+  },
+  {
+    "title": "Web:",
+    "content": "JavaScript / TypeScript / HTML / CSS / PHP"
+  },
+  {
+    "title": "CLI:",
+    "content": "C / C++ / Go / Ruby / Python"
+  }
+]

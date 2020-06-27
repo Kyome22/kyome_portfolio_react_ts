@@ -1,0 +1,54 @@
+.ArticlesList {
+  padding: 15px 10px;
+  width: 30%;
+  max-width: 400px;
+}
+
+div.unspecified {
+  width: 60%;
+  max-width: 700px;
+}
+
+.ArticlesList ul {
+  margin: 10px 0;
+  padding: 0;
+  text-align: left;
+}
+
+.ArticlesList li {
+  border-left: solid 6px #e4bc2c;
+  background-color: #ffffff;
+  margin-bottom: 3px;
+  padding: 5px;
+  list-style-type: none !important;
+}
+
+.ArticlesList a {
+  color: #27292a;
+  text-decoration: none;
+}
+
+.ArticlesList button {
+  margin: 0 15px;
+  width: 32px;
+  height: 32px;
+  color: #777777;
+  font-size: 15px;
+  border: 1px solid #e4bc2c;
+  border-radius: 16px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.ArticlesList button:hover {
+  background-color: #f7f7f7;
+}
+
+.ArticlesList button.unvisible {
+  opacity: 0;
+}
+
+.ArticlesList span {
+  color: #777777;
+  font-size: 17px;
+}

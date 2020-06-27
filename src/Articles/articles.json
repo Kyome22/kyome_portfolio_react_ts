@@ -1,0 +1,674 @@
+[
+  {
+    "id": "168",
+    "title": "Swift：Qiitaに投稿してある記事を全てMarkDownファイルとしてダウンロードするスクリプト"
+  },
+  {
+    "id": "167",
+    "title": "Swift：マルチディスプレイでもNSStatusBarButtonのアイコンの色を保つ"
+  },
+  {
+    "id": "166",
+    "title": "Swift：もしかしたらGPUの状態を取得できるかもしれないコード"
+  },
+  {
+    "id": "165",
+    "title": "Swift：App GroupsとUserDefaultsとNSKeyedUnarchiverの話"
+  },
+  {
+    "id": "164",
+    "title": "駆け出しエンジニアを自称している方々を見ていて思うこと"
+  },
+  {
+    "id": "163",
+    "title": "Swift：勝手にメニューに追加される「音声入力を開始」と「絵文字と記号」を除く方法"
+  },
+  {
+    "id": "162",
+    "title": "OAuthSwiftでTwitterを認証するときのCallback URLについて"
+  },
+  {
+    "id": "161",
+    "title": "Swift：WKWebViewでローカルファイルを開く時のTips"
+  },
+  {
+    "id": "160",
+    "title": "Swift：macOSのシステム情報を取得するフレームワーク作った"
+  },
+  {
+    "id": "159",
+    "title": "Swift：NSTabViewControllerのツールバーのアイテムを中央寄せ"
+  },
+  {
+    "id": "158",
+    "title": "Qiita API v2 の惜しいところ"
+  },
+  {
+    "id": "157",
+    "title": "Swift：flatMap便利すぎた．"
+  },
+  {
+    "id": "156",
+    "title": "Swift：Processでgrepする"
+  },
+  {
+    "id": "155",
+    "title": "macOS：ウィンドウを最小化するときのスローモーションを復活させる"
+  },
+  {
+    "id": "154",
+    "title": "Swift：OAuthSwiftを使ってQiita API v2をいじる"
+  },
+  {
+    "id": "153",
+    "title": "僕はなぜここまでして猫をメニューバーで走らせたかったのか..."
+  },
+  {
+    "id": "152",
+    "title": "Swift：macOSでSwifterを使ってTwitterの認証をする"
+  },
+  {
+    "id": "151",
+    "title": "RunCat開発に基づく知見"
+  },
+  {
+    "id": "150",
+    "title": "Swift：macのネットワーク上り下りスピードを取得する"
+  },
+  {
+    "id": "149",
+    "title": "AppleScript：フォルダと鬼ごっこしてみた"
+  },
+  {
+    "id": "148",
+    "title": "GIFアニメの繰り返し再生回数を変更する"
+  },
+  {
+    "id": "147",
+    "title": "Swift：自作CocoaPodsライブラリでAssets Catalogを使う"
+  },
+  {
+    "id": "146",
+    "title": "Xcode：CocoaPodsで入れたライブラリを上書きしてprint挟んでも出力されなかった"
+  },
+  {
+    "id": "145",
+    "title": "Twitterで挙げられているプログラミングできる人の特徴をマージしてみた。"
+  },
+  {
+    "id": "144",
+    "title": "Swift：独自クラスをUserDefaultsで保存する"
+  },
+  {
+    "id": "143",
+    "title": "Swift：HTMLエンティティを含む文字列をデコードする方法"
+  },
+  {
+    "id": "142",
+    "title": "Xcode：普段通りにCocoaPodsのライブラリを導入したら実行できなくなった件"
+  },
+  {
+    "id": "141",
+    "title": "GitHubの草をiPhoneの通知センターでも確認できるようにしてみた"
+  },
+  {
+    "id": "140",
+    "title": "GitHubの草をMacのメニューバーで確認できるようにしてみた"
+  },
+  {
+    "id": "139",
+    "title": "Swift：macのIP Addressを取得する"
+  },
+  {
+    "id": "138",
+    "title": "ニキシー管風時計をメニューバーに表示してみた．"
+  },
+  {
+    "id": "137",
+    "title": "Swift：省略記法を使わないflatMap，compactMap"
+  },
+  {
+    "id": "136",
+    "title": "Swift：NSAttributedStringの高さを計算する"
+  },
+  {
+    "id": "135",
+    "title": "Swift：macOSで現在のテーマ(Light/Dark)を取得する"
+  },
+  {
+    "id": "134",
+    "title": "Swift：文字列を特定の文字列の前後で分割する"
+  },
+  {
+    "id": "133",
+    "title": "Swift：UIColorの色指定に独自色を追加する"
+  },
+  {
+    "id": "132",
+    "title": "Swif/Xcode：Image Assetsの@2x,@3x画像をコードでリサイズするときは注意しろよな"
+  },
+  {
+    "id": "131",
+    "title": "Swift：iOS13のCoreNFCでNDEFをRead/Writeする"
+  },
+  {
+    "id": "130",
+    "title": "Swift：macOSメニューバーの項目の選択可否を動的に変更する"
+  },
+  {
+    "id": "129",
+    "title": "Swift：Timer.scheduledTimerとDipatchQueue.main.asyncAfterの細かい違い"
+  },
+  {
+    "id": "128",
+    "title": "Swift：指定フォントサイズに対するUILabelとNSTextFieldの高さ"
+  },
+  {
+    "id": "127",
+    "title": "Swift：なんか組み合わせ全パターン出すやつ"
+  },
+  {
+    "id": "126",
+    "title": "Swift：CGFloatを文字列で初期化する"
+  },
+  {
+    "id": "125",
+    "title": "Swift：スクロールバーのギャップを除いたNSScrollViewのサイズを取得する"
+  },
+  {
+    "id": "124",
+    "title": "文章をネコ語っぽく変換してペーストするツール作ったにゃん"
+  },
+  {
+    "id": "123",
+    "title": "Macアプリ配布用の.dmgの作成方法（2019 Mojave版）"
+  },
+  {
+    "id": "122",
+    "title": "Swift：文字列を複数の区切り文字で分割する"
+  },
+  {
+    "id": "121",
+    "title": "Swift：Macのインカメラから取得した映像を鏡写し（左右反転）で保存する（プレビュー付き）"
+  },
+  {
+    "id": "120",
+    "title": "Swift：タッチパッドの圧力を取得する（Force Touch）"
+  },
+  {
+    "id": "119",
+    "title": "Swift：左右反転した画像，白黒画像，ネガポジ反転画像を生成する"
+  },
+  {
+    "id": "118",
+    "title": "Swift：NSCollectionViewの使い方"
+  },
+  {
+    "id": "117",
+    "title": "macOS向けアプリでカスタムフォントを扱う方法"
+  },
+  {
+    "id": "116",
+    "title": "Swift：macのディスク使用量を取得する"
+  },
+  {
+    "id": "115",
+    "title": "Swift：macのメモリパフォーマンスを取得する"
+  },
+  {
+    "id": "114",
+    "title": "Swift：配列へのアクセス範囲など上限と下限のチェックが必要な時の条件文"
+  },
+  {
+    "id": "113",
+    "title": "Swift：CIAffineClampを使って縁まで綺麗なぼかし画像を取得する"
+  },
+  {
+    "id": "112",
+    "title": "Swift：一つのオブジェクトに対して複数の場所でdelegate渡すのは危険"
+  },
+  {
+    "id": "111",
+    "title": "Swift：NSColorPanelをつかってユーザに色変更のUIを簡単に提供"
+  },
+  {
+    "id": "110",
+    "title": "CocoaPodsとCarthageで公開済みのFrameworkのアップデート"
+  },
+  {
+    "id": "109",
+    "title": "Macのデスクトップに散らばるアイコンを一時的に隠すアプリ作ってみた"
+  },
+  {
+    "id": "108",
+    "title": "Swift：MIDIのBluetooth構成ウィンドウを開く"
+  },
+  {
+    "id": "107",
+    "title": "Swift：再生スピードが変更可能なキーフレームアニメーション"
+  },
+  {
+    "id": "106",
+    "title": "Swift：ワークスペースの切り替えを監視する"
+  },
+  {
+    "id": "105",
+    "title": "Swift：最前面にあるアプリケーションが何かを監視する"
+  },
+  {
+    "id": "104",
+    "title": "Swift：おっぱい関数をつまんでプルンとさせてみた．"
+  },
+  {
+    "id": "103",
+    "title": "Macのタッチパッドの生データを取得する"
+  },
+  {
+    "id": "102",
+    "title": "LaTeX：アイテマイズ入れ子で(1-1)みたいにする"
+  },
+  {
+    "id": "101",
+    "title": "Swift：macOS用のグローバルショートカット登録ライブラリ作った（CocoaPods公開）"
+  },
+  {
+    "id": "100",
+    "title": "Swift：enumで予約語を使う"
+  },
+  {
+    "id": "099",
+    "title": "Swift：CoreML×CreateMLでスタンドアローンな機械学習分類器を実装する"
+  },
+  {
+    "id": "098",
+    "title": "Swift：自作のCommand Line ToolでCSVファイルを読み込む方法"
+  },
+  {
+    "id": "097",
+    "title": "Swift：CALayerや画像に射影変換を適用する"
+  },
+  {
+    "id": "096",
+    "title": "Swift：CGPoint・CGSize用の演算子定義&Extension"
+  },
+  {
+    "id": "095",
+    "title": "HTML：<textarea>でGrammarlyを発動させる方法"
+  },
+  {
+    "id": "094",
+    "title": "Javascript：<textarea>の文量に応じた自動高さ変更"
+  },
+  {
+    "id": "093",
+    "title": "Swift：アプリのバージョンアップ直後のみ特定の処理を実行させる"
+  },
+  {
+    "id": "092",
+    "title": "Swift：macOS用のシリアル通信ライブラリを作った（CocoaPods公開）"
+  },
+  {
+    "id": "091",
+    "title": "xcodebuild:  xcode-select: error: tool 'xcodebuild' requires Xcode, but active developer directory '/Library/Developer/CommandLineTools' is a command line tools instance"
+  },
+  {
+    "id": "090",
+    "title": "Swift：while文で変数に代入した結果を条件式にする"
+  },
+  {
+    "id": "089",
+    "title": "Swift：macでUSBデバイスの接続/排出を検知する．"
+  },
+  {
+    "id": "088",
+    "title": "Swift：#selectorの使い方"
+  },
+  {
+    "id": "087",
+    "title": "Xcode：command compileswiftsources failed with a nonzero exit code"
+  },
+  {
+    "id": "086",
+    "title": "Swift：UIColorを16進数カラーコードの文字列に変換する"
+  },
+  {
+    "id": "085",
+    "title": "Swift：NSTableViewの項目をドラッグで入れ替えできるようにする"
+  },
+  {
+    "id": "084",
+    "title": "Swift：Macのデスクトップ背景画像を取得する"
+  },
+  {
+    "id": "083",
+    "title": "Swift：非同期の処理を無理やり同期的にするやつ（セマフォ）"
+  },
+  {
+    "id": "082",
+    "title": "Swift：NSImageのドット絵をそのまま拡大(リサイズ)する"
+  },
+  {
+    "id": "081",
+    "title": "Swift：CGImage ←→ NSImage ←→ CIImage【変換Extension】"
+  },
+  {
+    "id": "080",
+    "title": "Swift：macのスリープ/復帰の通知を受ける"
+  },
+  {
+    "id": "079",
+    "title": "CSS：横幅めいいっぱいの背景画像をbodyに指定する"
+  },
+  {
+    "id": "078",
+    "title": "Swift：押した時に画像が変わるNSButton"
+  },
+  {
+    "id": "077",
+    "title": "Pure Javascript：リンクジャンプ時のスクロールアニメーションのテンプレート"
+  },
+  {
+    "id": "076",
+    "title": "HTML&CSS： 空のsectionタグに高さを持たせるとき"
+  },
+  {
+    "id": "075",
+    "title": "Segmented Controlの幅の調整の仕方"
+  },
+  {
+    "id": "074",
+    "title": "Swift：NSGradientで透明なグラデーションを作るときのTips"
+  },
+  {
+    "id": "073",
+    "title": "Swift：NSPopUpButtonに関する小ネタ"
+  },
+  {
+    "id": "072",
+    "title": "macOS × Adafruit Feather 32u4でBLE GATTやる【決定版】"
+  },
+  {
+    "id": "071",
+    "title": "正の数なら1,負の数なら-1,ゼロなら0を返す式"
+  },
+  {
+    "id": "070",
+    "title": "ベイブレードバーストの自作レイヤー開発用CADモデル作った"
+  },
+  {
+    "id": "069",
+    "title": "Swift：macOSでテーマの切り替えを検出する"
+  },
+  {
+    "id": "068",
+    "title": "HLS (.m3u8) の開発の時使えるサンプル動画"
+  },
+  {
+    "id": "067",
+    "title": "Swift：幅と高さを扱うときによくやってること"
+  },
+  {
+    "id": "066",
+    "title": "Swift：左右のCommandキー同時押しを検出する方法"
+  },
+  {
+    "id": "065",
+    "title": "Swift：macOSのシステムサウンドを鳴らす"
+  },
+  {
+    "id": "064",
+    "title": "Swift：macのCPU使用率を取得する"
+  },
+  {
+    "id": "063",
+    "title": "Swift：配列のmax(by:),min(by:)の使い方"
+  },
+  {
+    "id": "062",
+    "title": "Swift：CFDataGetLengthの値がおかしい話"
+  },
+  {
+    "id": "061",
+    "title": "Swift：ランダムな色を取得"
+  },
+  {
+    "id": "060",
+    "title": "Swift：NSBezierPathのオブジェクトにパスファインダーを適用する"
+  },
+  {
+    "id": "059",
+    "title": "Swift：【IME自作プロジェクト】かな漢字変換ライブラリ作成中"
+  },
+  {
+    "id": "058",
+    "title": "Swift：リソースを含んだFrameworkを作成するときのTips"
+  },
+  {
+    "id": "057",
+    "title": "Javascript：日付を超える度に処理を行う"
+  },
+  {
+    "id": "056",
+    "title": "Xcodeのツリーメニューの並び替えができないバグを見つけた"
+  },
+  {
+    "id": "055",
+    "title": "macOS × BLE Nano V2でBLE通信してみた "
+  },
+  {
+    "id": "054",
+    "title": "macOSのシステムアイコンのありか"
+  },
+  {
+    "id": "053",
+    "title": "Swift：NSEvent.addGlobalMonitorの小話"
+  },
+  {
+    "id": "052",
+    "title": "Swift：1mmを取得する"
+  },
+  {
+    "id": "051",
+    "title": "iPhoneをmac専用BLEマウスにしたった．"
+  },
+  {
+    "id": "050",
+    "title": "AppleScript：備付トラックパッドの有効無効を切り替える"
+  },
+  {
+    "id": "049",
+    "title": "Swift：射影変換を行う"
+  },
+  {
+    "id": "048",
+    "title": "Swift：キー入力・マウスクリック・ドラッグ・座標移動・ホイール入力を強制的に発動させる"
+  },
+  {
+    "id": "047",
+    "title": "Swift：CIKernelを使ってフィルタを自作する方法"
+  },
+  {
+    "id": "046",
+    "title": "Apple有線キーボードの線が邪魔だったので迂回させる物体を作った"
+  },
+  {
+    "id": "045",
+    "title": "Swift：n番目を先頭としたループになるような配列ソート"
+  },
+  {
+    "id": "044",
+    "title": "Swift：CGPathをNSBezierPathに変換する"
+  },
+  {
+    "id": "043",
+    "title": "Swift：NSGraphicsContextを使って描画する"
+  },
+  {
+    "id": "042",
+    "title": "Swift：NSBezierPathをCGPathに変換する"
+  },
+  {
+    "id": "041",
+    "title": "初心者に贈る エラー文の出ないバグを潰す方法"
+  },
+  {
+    "id": "040",
+    "title": "インデントをしてほしい叫び"
+  },
+  {
+    "id": "039",
+    "title": "プログラミングの授業を受けている大学生に調べておいて欲しいキーワード"
+  },
+  {
+    "id": "038",
+    "title": "小中高大生にプログラミング教育をしてきて分かったこと"
+  },
+  {
+    "id": "037",
+    "title": "[Xcode] PrivateFrameworksのframeworkがエラーはないのに動かなくてハマった件"
+  },
+  {
+    "id": "036",
+    "title": "突然PCが壊れた情報系大学院生の話"
+  },
+  {
+    "id": "035",
+    "title": "osX keyDownメソッド実行時にBeep音が鳴るようになった話"
+  },
+  {
+    "id": "034",
+    "title": "IllustratorとかのSVGのパスをUIBezierPathのコードに変換するツール作ってみた"
+  },
+  {
+    "id": "033",
+    "title": "Swift：カラーコードをRGBの値に変換してくれるCommand Line Tool作ってみた"
+  },
+  {
+    "id": "032",
+    "title": "ArduinoとProcessingでシリアル通信をする簡易例"
+  },
+  {
+    "id": "031",
+    "title": "Swift：大文字か小文字か区別する"
+  },
+  {
+    "id": "030",
+    "title": "アプリ開発用に必要サイズの画像を生成するウェブサービスを作ってみた"
+  },
+  {
+    "id": "029",
+    "title": "AWSのEC2インスタンスでNode.jsのアプリを作った時のメモ"
+  },
+  {
+    "id": "028",
+    "title": "Swift：Terminalで実行するときコマンドライン引数でファイル指定して開く"
+  },
+  {
+    "id": "027",
+    "title": "Swift, iOS：ナビゲーションバーにビューを重ねる方法"
+  },
+  {
+    "id": "026",
+    "title": "mbed-OSでBLEのHIDキーボードを実装してみた "
+  },
+  {
+    "id": "025",
+    "title": "Swift：タッチイベントの際にタッチした座標を取得する方法２通り"
+  },
+  {
+    "id": "024",
+    "title": "Karabiner-Elements：ELECOM EX-Gマウスのボタンに機能を割り当ててみた"
+  },
+  {
+    "id": "023",
+    "title": "Karabiner-Elements：キーボードのアローキーをマウスにしてみた"
+  },
+  {
+    "id": "022",
+    "title": "Swift：ローマ字の文字列をひらがな・カタカナに変換するクラス作った"
+  },
+  {
+    "id": "021",
+    "title": "Swift：文字列を一定の文字数ごとに分割した配列にして取得する"
+  },
+  {
+    "id": "020",
+    "title": "Swift：「ある数が0以上ならある数、0未満なら0」をスマートに取得する方法"
+  },
+  {
+    "id": "019",
+    "title": "キーボード開発者の称号"
+  },
+  {
+    "id": "018",
+    "title": "macOS × mbed OS でBLE通信する方法 "
+  },
+  {
+    "id": "017",
+    "title": "Androidカスタムキーボードの作り方"
+  },
+  {
+    "id": "016",
+    "title": "iOSカスタムキーボードの作り方"
+  },
+  {
+    "id": "015",
+    "title": "Swift：OpenALでcaf音源を鳴らす方法"
+  },
+  {
+    "id": "014",
+    "title": "AppleWatchでボタンのタッチ開始と終了タイミングを検知する方法"
+  },
+  {
+    "id": "013",
+    "title": "Swift：綺麗なサイン波音をその場で生成して鳴らす方法"
+  },
+  {
+    "id": "012",
+    "title": "Xamarin.AndroidでAndroid向けIMEを作る"
+  },
+  {
+    "id": "011",
+    "title": "Xamarin.Formsでとりあえず両OS対応の簡単なアプリを作りたいんじゃ〜"
+  },
+  {
+    "id": "010",
+    "title": "Xamarin.iOSでiOS向けカスタムキーボードを作る"
+  },
+  {
+    "id": "009",
+    "title": "Swift：UserDefaultsで初期値を設定する方法"
+  },
+  {
+    "id": "008",
+    "title": "Swift：配列で全てに同じ初期値を入れて初期化する方法"
+  },
+  {
+    "id": "007",
+    "title": "mbed × BLE × iOSでとりあえず通信したい人のための記事"
+  },
+  {
+    "id": "006",
+    "title": "OSX ショートカットキー入力の際Beep音を鳴らさない方法"
+  },
+  {
+    "id": "005",
+    "title": "Xcodeで画像ファイルを追加した途端にCode Sign Errorが出るようになった時の対処法"
+  },
+  {
+    "id": "004",
+    "title": "Swift：文章中のURL部分だけを抜き出して手に入れる方法"
+  },
+  {
+    "id": "003",
+    "title": "Swift：UIColorを16進数カラーコードで初期化する"
+  },
+  {
+    "id": "002",
+    "title": "Swift：スクリーンショットをUIImageに書き出しかつ加工する"
+  },
+  {
+    "id": "001",
+    "title": "iOS AdMobでテスト広告を表示したい時の罠"
+  }
+]
