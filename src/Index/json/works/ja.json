@@ -2,7 +2,7 @@
   "macOS": [
     {
       "name": "RunCat",
-      "url": "https://kyome.io/runcat/index_jp.html",
+      "url": "https://kyome.io/runcat/index.html?lang=ja",
       "image": "macos/runcat.png",
       "description": "メニューバーに表示されるネコの走り方でMacのCPU使用率がわかるユーティリティアプリ。"
     },

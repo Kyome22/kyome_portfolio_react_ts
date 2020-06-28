@@ -2,7 +2,7 @@
   "macOS": [
     {
       "name": "RunCat",
-      "url": "https://kyome.io/runcat/index.html",
+      "url": "https://kyome.io/runcat/index.html?lang=en",
       "image": "macos/runcat.png",
       "description": "This notifies you the CPU usage of Mac with running speed of a cat which lives in the menu bar."
     },
