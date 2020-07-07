@@ -1,9 +1,9 @@
-.profileEnum {
+.profile-enum {
   margin: 4px;
   font-size: 22px;
 }
 
-.profileEnum span.title {
+.profile-enum span.title {
   margin-right: 10px;
   font-weight: bold;
 }

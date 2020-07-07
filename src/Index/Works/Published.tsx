@@ -57,7 +57,7 @@ export function Published(props: Props) {
 
   return (
     <div className="published">
-      <h3 className="subTitle">{title}</h3>
+      <h3 className="sub-title">{title}</h3>
       <table>
         <tbody>{trs(rows)}</tbody>
       </table>

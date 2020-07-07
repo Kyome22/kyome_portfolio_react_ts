@@ -1,4 +1,4 @@
-.ArticlesList {
+.article-list {
   padding: 15px 10px;
   width: 30%;
   max-width: 400px;
@@ -9,13 +9,13 @@ div.unspecified {
   max-width: 700px;
 }
 
-.ArticlesList ul {
+.article-list ul {
   margin: 10px 0;
   padding: 0;
   text-align: left;
 }
 
-.ArticlesList li {
+.article-list li {
   border-left: solid 6px #e4bc2c;
   background-color: #ffffff;
   margin-bottom: 3px;
@@ -23,12 +23,12 @@ div.unspecified {
   list-style-type: none !important;
 }
 
-.ArticlesList a {
+.article-list a {
   color: #27292a;
   text-decoration: none;
 }
 
-.ArticlesList button {
+.article-list button {
   margin: 0 15px;
   width: 32px;
   height: 32px;
@@ -40,15 +40,15 @@ div.unspecified {
   text-align: center;
 }
 
-.ArticlesList button:hover {
+.article-list button:hover {
   background-color: #f7f7f7;
 }
 
-.ArticlesList button.unvisible {
+.article-list button.unvisible {
   opacity: 0;
 }
 
-.ArticlesList span {
+.article-list span {
   color: #777777;
   font-size: 17px;
 }

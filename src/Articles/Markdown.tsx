@@ -17,7 +17,7 @@ export function Markdown(props: Props) {
   });
 
   return (
-    <div className="Markdown">
+    <div className="markdown">
       <ReactMarkdown source={file} escapeHtml={false} />
     </div>
   );

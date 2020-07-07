@@ -10,7 +10,7 @@ export function ProfileEnum(value: ProfileEnumValue) {
   const { title, content } = value;
 
   return (
-    <p className="profileEnum">
+    <p className="profile-enum">
       <span className="title">{title}</span>
       <span>{content}</span>
     </p>

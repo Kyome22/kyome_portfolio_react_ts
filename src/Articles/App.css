@@ -1,9 +1,9 @@
-.App {
+.app {
   width: 100%;
   text-align: center;
 }
 
-.App div.main {
+.app div.main {
   display: flex;
   justify-content: center;
   background-color: #f2f2f2;

@@ -32,7 +32,7 @@ export function ArticlesList(props: Props) {
     ));
 
   return (
-    <div className={"ArticlesList" + (isUnspecified ? " unspecified" : "")}>
+    <div className={"articles-list" + (isUnspecified ? " unspecified" : "")}>
       <button
         className={currentPage === 1 ? "unvisible" : "normal"}
         onClick={() => setPage(Math.max(currentPage - 1, 1))}

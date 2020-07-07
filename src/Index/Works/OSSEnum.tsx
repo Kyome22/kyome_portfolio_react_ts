@@ -11,7 +11,7 @@ export function OSSEnum(props: Props) {
   const { title, url, content } = props;
 
   return (
-    <p className="ossEnum">
+    <p className="oss-enum">
       <a href={url}>{title}:</a>
       {content}
     </p>

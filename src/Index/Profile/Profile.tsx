@@ -19,7 +19,7 @@ export function Profile() {
               <img src={"images/selfie.png"} alt="selfieImage" />
             </td>
             <td className="right">
-              <h3 className="subTitle">{t("introduction_title")}</h3>
+              <h3 className="sub-title">{t("introduction_title")}</h3>
 
               <p
                 className="introduction"

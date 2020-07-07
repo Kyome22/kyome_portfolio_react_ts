@@ -14,8 +14,8 @@ export function ProfileItem(props: Props) {
   ));
 
   return (
-    <div className="profileItem">
-      <h3 className="subTitle">{title}</h3>
+    <div className="profile-item">
+      <h3 className="sub-title">{title}</h3>
       {enums}
     </div>
   );

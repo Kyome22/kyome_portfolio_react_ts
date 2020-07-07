@@ -12,14 +12,14 @@ export function LinkEnum(values: LinkEnumValue) {
 
   if (url === "") {
     return (
-      <p className="linkEnum">
+      <p className="link-enum">
         <span className="title">{title}</span>
         <span>{content}</span>
       </p>
     );
   } else {
     return (
-      <p className="linkEnum">
+      <p className="link-enum">
         <span className="title">{title}</span>
         <a href={url}>{content}</a>
       </p>

@@ -18,7 +18,7 @@ export function OSS() {
 
   return (
     <div className="oss">
-      <h3 className="subTitle">{t("oss_title")}</h3>
+      <h3 className="sub-title">{t("oss_title")}</h3>
       <div className="enums">{enums}</div>
     </div>
   );

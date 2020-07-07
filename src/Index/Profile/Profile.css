@@ -11,7 +11,7 @@
   color: #27292a;
 }
 
-.profile h3.subTitle {
+.profile h3.sub-title {
   margin: 0 auto;
   padding: 0px;
   font-size: 35px;
@@ -37,7 +37,6 @@
 }
 
 .profile p.introduction {
-  text-indent: 1em;
   text-indent: 1em;
   text-align: justify;
   hyphens: auto;

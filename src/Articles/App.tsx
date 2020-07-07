@@ -25,7 +25,7 @@ const App: React.FC<{ qs: ParsedQuery }> = (props) => {
   };
 
   return (
-    <div className="App">
+    <div className="app">
       <Header title={title()} />
       <div className="main">
         {!isUnspecified && <Markdown id={id} />}

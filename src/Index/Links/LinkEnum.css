@@ -1,13 +1,13 @@
-.linkEnum {
+.link-enum {
   margin: 4px;
   font-size: 22px;
 }
 
-.linkEnum span.title {
+.link-enum span.title {
   margin-right: 10px;
   font-weight: bold;
 }
 
-.linkEnum a {
+.link-enum a {
   color: #e9e9e9;
 }
