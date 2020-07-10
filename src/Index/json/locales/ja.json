@@ -19,6 +19,7 @@
   "BooleanPath": "NSBezierPathにパスファインダーを適用するライブラリ。",
   "macOS_title": "macOSアプリケーション",
   "iOS_title": "iOSアプリケーション",
+  "android_title": "Androidアプリケーション",
   "web_title": "ウェブサービス",
   "minecraft_title": "マインクラフト作品"
 }

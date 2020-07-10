@@ -19,6 +19,7 @@
   "BooleanPath": "Add boolean operations to NSBezierPath.",
   "macOS_title": "macOS Application",
   "iOS_title": "iOS Application",
+  "android_title": "Android Application",
   "web_title": "Web Service",
   "minecraft_title": "MineCraft"
 }

@@ -73,6 +73,12 @@
       "description": "This is a utility application that can hide the desktop icons temporarily."
     },
     {
+      "name": "HandyPalette",
+      "url": "https://apps.apple.com/jp/app/handypalette/id1515022667",
+      "image": "macos/handy_palette.png",
+      "description": "The simplest color picker tool."
+    },
+    {
       "name": "NixieStats",
       "url": "https://apps.apple.com/us/app/nixiestats/id1486093880",
       "image": "macos/nixiestats.png",

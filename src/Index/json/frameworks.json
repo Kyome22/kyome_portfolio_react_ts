@@ -1,7 +1,7 @@
 [
   {
     "title": "macOS/iOS:",
-    "content": "CoreML, CreateML, CoreBluetooth, Realm"
+    "content": "Realm, RxSwift, CoreML, CreateML, CoreBluetooth"
   },
   {
     "title": "Front-end:",
@@ -13,14 +13,14 @@
   },
   {
     "title": "IDE:",
-    "content": "Xcode, AndroidStudio, Xamarin"
+    "content": "Xcode, Android Studio, Xamarin"
   },
   {
     "title": "Editor:",
     "content": "Vim, Visual Studio Code, MacDown, TexPad"
   },
   {
-    "title": "Cloud:",
+    "title": "Cloud Service:",
     "content": "GitHub, AWS, DropBox"
   },
   {

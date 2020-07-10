@@ -1,9 +1,14 @@
 .profile-enum {
   margin: 4px;
   font-size: 22px;
+  display: flex;
 }
 
-.profile-enum span.title {
-  margin-right: 10px;
+.profile-enum p.title {
+  margin: 0px 10px 0px 0px;
   font-weight: bold;
+}
+
+.profile-enum p.content {
+  margin: 0;
 }

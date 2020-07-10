@@ -30,6 +30,7 @@ export function Works(props: Props) {
       <OSS />
       <Published title={t("macOS_title")} values={worksData.macOS} />
       <Published title={t("iOS_title")} values={worksData.iOS} />
+      <Published title={t("android_title")} values={worksData.android} />
       <Published title={t("web_title")} values={worksData.web} />
       <Published title={t("minecraft_title")} values={worksData.minecraft} />
     </div>

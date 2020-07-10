@@ -73,6 +73,12 @@
       "description": "デスクトップのアイコンを一時的に隠せるユーティリティアプリ。"
     },
     {
+      "name": "HandyPalette",
+      "url": "https://apps.apple.com/us/app/handypalette/id1515022667",
+      "image": "macos/handy_palette.png",
+      "description": "必要最小限機能のカラーピッカー。"
+    },
+    {
       "name": "NixieStats",
       "url": "https://apps.apple.com/jp/app/nixiestats/id1486093880",
       "image": "macos/nixiestats.png",
