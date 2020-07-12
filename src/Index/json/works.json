@@ -1,0 +1,252 @@
+{
+  "macOS": [
+    {
+      "name": "RunCat",
+      "ja_url": "https://kyome.io/runcat/index.html?lang=ja",
+      "en_url": "https://kyome.io/runcat/index.html?lang=en",
+      "image": "macos/runcat.png",
+      "ja_description": "メニューバーに表示されるネコの走り方でMacのCPU使用率がわかるユーティリティアプリ。",
+      "en_description": "This notifies you the CPU usage of Mac with running speed of a cat which lives in the menu bar."
+    },
+    {
+      "name": "TweetShot",
+      "ja_url": "https://kyome.io/tweetshot/index_jp.html",
+      "en_url": "https://kyome.io/tweetshot/index.html",
+      "image": "macos/tweetshot.png",
+      "ja_description": "高速ツイートに特化したTwitterクライアントアプリ。",
+      "en_description": "This app makes it possible to Tweet at ultra speed with a shortcut."
+    },
+    {
+      "name": "ScreenPointer",
+      "ja_url": "https://kyome.io/screen_pointer/index_jp.html",
+      "en_url": "https://kyome.io/screen_pointer/index.html",
+      "image": "macos/screenpointer.png",
+      "ja_description": "ショートカットでマウスカーソルをポインターにできるプレゼンテーション支援アプリ。",
+      "en_description": "This is an agent application that highlights the mouse as a pointer."
+    },
+    {
+      "name": "Measurist",
+      "ja_url": "https://apps.apple.com/jp/app/measurist/id1423823777",
+      "en_url": "https://apps.apple.com/us/app/measurist/id1423823777",
+      "image": "macos/measurist.png",
+      "ja_description": "画面に定規や分度器を表示できるユーティリティアプリ。",
+      "en_description": "This application can display a ruler or a protractor on the screen."
+    },
+    {
+      "name": "GIFlash",
+      "ja_url": "https://apps.apple.com/jp/app/giflash/id1507246566",
+      "en_url": "https://apps.apple.com/us/app/giflash/id1507246566",
+      "image": "macos/giflash.png",
+      "ja_description": "画像や動画からGIFアニメーションを簡単に作成できるツール。",
+      "en_description": "GIFlash is a tool that enables you to create an animated GIF from images or a video."
+    },
+    {
+      "name": "APNG Maker",
+      "ja_url": "https://apps.apple.com/jp/app/apng-maker/id1510778890",
+      "en_url": "https://apps.apple.com/us/app/apng-maker/id1510778890",
+      "image": "macos/apng_maker.png",
+      "ja_description": "画像や動画からAnimated PNGを簡単に作成できるツール。",
+      "en_description": "APNG Maker is a tool that enables you to create an animated PNG from images or a video."
+    },
+    {
+      "name": "QuickMIDI",
+      "ja_url": "https://apps.apple.com/jp/app/quickmidi/id1459790045",
+      "en_url": "https://apps.apple.com/us/app/quickmidi/id1459790045",
+      "image": "macos/quickmidi.png",
+      "ja_description": "常駐型MIDIキーボードプレイヤー。",
+      "en_description": "This enables you to connect your MIDI keyboard to Mac and play sounds easily."
+    },
+    {
+      "name": "ScreenNote",
+      "ja_url": "https://apps.apple.com/jp/app/screennote/id1258500140",
+      "en_url": "https://apps.apple.com/us/app/screennote/id1258500140",
+      "image": "macos/screennote.png",
+      "ja_description": "デスクトップをキャンバスにしてお絵かきができるツール。",
+      "en_description": "This is a paint tool that allows you to draw shapes on the desktop like a canvas."
+    },
+    {
+      "name": "Movpeg4",
+      "ja_url": "https://apps.apple.com/jp/app/movpeg4/id1444944504",
+      "en_url": "https://apps.apple.com/us/app/movpeg4/id1444944504",
+      "image": "macos/movpeg4.png",
+      "ja_description": "MOVファイルをMP4ファイルに一瞬で変換できる動画変換アプリ。",
+      "en_description": "This is a utility application that converts mov format movie files to mp4 format."
+    },
+    {
+      "name": "GitGrass",
+      "ja_url": "https://github.com/Kyome22/GitGrass",
+      "en_url": "https://github.com/Kyome22/GitGrass",
+      "image": "macos/gitgrass.png",
+      "ja_description": "GitHubの草（コントリビューション）をメニューバーで確認できるツール。",
+      "en_description": "This is a utility tool that you can check the contributions of GitHub."
+    },
+    {
+      "name": "TidyAgent",
+      "ja_url": "https://apps.apple.com/jp/app/tidyagent/id1490212946",
+      "en_url": "https://apps.apple.com/us/app/tidyagent/id1490212946",
+      "image": "macos/tidyagent.png",
+      "ja_description": "デスクトップを一瞬で綺麗にするユーティリティアプリ。",
+      "en_description": "This is a utility application that cleans the desktop in an instant."
+    },
+    {
+      "name": "SecretDesktop",
+      "ja_url": "https://apps.apple.com/jp/app/secretdesktop/id1469900735",
+      "en_url": "https://apps.apple.com/us/app/secretdesktop/id1469900735",
+      "image": "macos/secret_desktop.png",
+      "ja_description": "デスクトップのアイコンを一時的に隠せるユーティリティアプリ。",
+      "en_description": "This is a utility application that can hide the desktop icons temporarily."
+    },
+    {
+      "name": "HandyPalette",
+      "ja_url": "https://apps.apple.com/us/app/handypalette/id1515022667",
+      "en_url": "https://apps.apple.com/us/app/handypalette/id1515022667",
+      "image": "macos/handy_palette.png",
+      "ja_description": "必要最小限機能のカラーピッカー。",
+      "en_description": "The simplest color picker tool."
+    },
+    {
+      "name": "NixieStats",
+      "ja_url": "https://apps.apple.com/jp/app/nixiestats/id1486093880",
+      "en_url": "https://apps.apple.com/us/app/nixiestats/id1486093880",
+      "image": "macos/nixiestats.png",
+      "ja_description": "ニキシー管風のアクティビティインジケータ。",
+      "en_description": "Nixie style activity indicator on the menubar."
+    },
+    {
+      "name": "Nekobot",
+      "ja_url": "https://kyome.io/nekobot/index.html",
+      "en_url": "https://kyome.io/nekobot/index.html",
+      "image": "macos/nekobot.png",
+      "ja_description": "にゃん にゃん にゃん。",
+      "en_description": "Nyan Nyan Nyan."
+    },
+    {
+      "name": "ScanTextFromImage",
+      "ja_url": "https://github.com/Kyome22/ScanTextFromImage",
+      "en_url": "https://github.com/Kyome22/ScanTextFromImage",
+      "image": "macos/scan_text.png",
+      "ja_description": "スクリーンショットをOCRして文字列をクリップボードに保存するやつ。",
+      "en_description": "A tool to OCR a screenshot and save strings to the clipboard. "
+    }
+  ],
+  "iOS": [
+    {
+      "name": "Slantock",
+      "ja_url": "https://apps.apple.com/jp/app/slantock-new-falling-block-puzzle/id1203150473",
+      "en_url": "https://apps.apple.com/us/app/slantock-new-falling-block-puzzle/id1203150473",
+      "image": "ios/slantock.png",
+      "ja_description": "テトリスを斜めにしたような新感覚の落ちものパズルゲーム。（初めてAppStoreにリリースした作品）",
+      "en_description": "This is a new falling block puzzle like Tetris slanted."
+    },
+    {
+      "name": "Keyboard×2",
+      "ja_url": "http://kyome.io/keyboardx2/index_jp.html",
+      "en_url": "http://kyome.io/keyboardx2/index.html",
+      "image": "ios/keyboardx2.png",
+      "ja_description": "実際に弾くことができるピアノの機能を持ったソフトウェアキーボード。",
+      "en_description": "This is a custom keyboard that enables you to play the keyboard on your iPhone & iPad!"
+    },
+    {
+      "name": "MojiPhoto",
+      "ja_url": "https://apps.apple.com/jp/app/mojiphoto/id1443208901",
+      "en_url": "https://apps.apple.com/us/app/mojiphoto/id1443208901",
+      "image": "ios/mojiphoto.png",
+      "ja_description": "撮影した写真やアルバムの画像をアスキーアートに変換できるツール。",
+      "en_description": "This is an app that easily converts photos into text art."
+    },
+    {
+      "name": "Forethumb",
+      "ja_url": "https://kyome.io/forethumb_ios/index_jp.html",
+      "en_url": "https://kyome.io/forethumb_ios/index.html",
+      "image": "ios/forethumb.png",
+      "ja_description": "モールス信号で文字を入力可能にするソフトウェアキーボード。日本語入力にはKaedeを使用。",
+      "en_description": "Forethumb enables you to input characters on your iOS Device with morse code. This uses Kaede."
+    },
+    {
+      "name": "ふぉ〜さむ いろは",
+      "ja_url": "https://kyome.io/forethumb_iroha/index.html",
+      "en_url": "https://kyome.io/forethumb_iroha/index.html",
+      "image": "ios/iroha.png",
+      "ja_description": "モールス信号で文字を入力可能にするソフトウェアキーボードForethumbの和文版。",
+      "en_description": "This is the Japanese version of Forethumb."
+    },
+    {
+      "name": "MorseConverter",
+      "ja_url": "https://apps.apple.com/jp/app/morseconverter/id1323511370",
+      "en_url": "https://apps.apple.com/us/app/morseconverter/id1323511370",
+      "image": "ios/morseconverter.png",
+      "ja_description": "ローマ字とモールス符号を相互変換する謎のツール。",
+      "en_description": "This is a mystery tool to convert romaji and morse code mutually."
+    },
+    {
+      "name": "レコアカ",
+      "ja_url": "https://apps.apple.com/jp/app/%E3%83%AC%E3%82%B3%E3%82%A2%E3%82%AB-%E5%AE%B6%E8%A8%88%E7%B0%BF%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA/id1237443649",
+      "en_url": "https://apps.apple.com/us/app/%E3%83%AC%E3%82%B3%E3%82%A2%E3%82%AB-%E5%AE%B6%E8%A8%88%E7%B0%BF%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA/id1237443649",
+      "image": "ios/recoaka.png",
+      "ja_description": "音声で家計簿をつけることができるユーティリティアプリ。",
+      "en_description": "This is a utility application that can record a household account book by voice."
+    }
+  ],
+  "android": [
+    {
+      "name": "Forethumb",
+      "ja_url": "https://kyome.io/forethumb_android/index_jp.html",
+      "en_url": "https://kyome.io/forethumb_android/index.html",
+      "image": "android/forethumb.png",
+      "ja_description": "モールス信号で文字を入力可能にするソフトウェアキーボードのAndroid版。",
+      "en_description": "Forethumb for Android."
+    }
+  ],
+  "web": [
+    {
+      "name": "ImageConverter",
+      "url": "http://imageconverter.pictures",
+      "image": "web/imageconverter.png",
+      "ja_description": "アプリの開発に必要なサイズの画像を自動で生成してパッケージ化してくれるツール。",
+      "en_description": "This is a tool that automatically generates and packages images of the size required for app development."
+    },
+    {
+      "name": "SVG Converter",
+      "url": "http://svg-converter.kyome.io",
+      "image": "web/svg_converter.png",
+      "ja_description": "SVGのpathの生データを貼り付けるとSwiftで扱えるコードに変換して出力してくれるツール。",
+      "en_description": "This is a tool that converts raw data of SVG path into code that can be handled by Swift and outputs it."
+    },
+    {
+      "name": "Paper Support Tool",
+      "url": "https://paper-support-tool.github.io/",
+      "image": "web/paper_support_tool.png",
+      "ja_description": "翻訳したり文章整形したり論文読みをサポートするツール。",
+      "en_description": "This is a tool that supports reading papers with translation and text formatting functions."
+    },
+    {
+      "name": "プレゼンタイマー",
+      "url": "https://presentimer.github.io/",
+      "image": "web/presentimer.png",
+      "ja_description": "プレゼンテーションの練習用のタイマー。無駄がない設計。",
+      "en_description": "Timer for presentation practice. Design without waste."
+    }
+  ],
+  "minecraft": [
+    {
+      "name": "ワードプロセッサ",
+      "url": "https://youtu.be/fzAdXdbl_Do",
+      "image": "minecraft/wordprocessor.png"
+    },
+    {
+      "name": "ワードプロセッサ改良型",
+      "url": "https://youtu.be/birn0V3b8s0",
+      "image": "minecraft/wordprocessor2.png"
+    },
+    {
+      "name": "マインスイーパー",
+      "url": "https://youtu.be/05TLv8Ldu-g",
+      "image": "minecraft/minesweeper.png"
+    },
+    {
+      "name": "アーケード音楽ゲーム機",
+      "url": "https://youtu.be/K70Sx_L9VPo",
+      "image": "minecraft/musicgame.png"
+    }
+  ]
+}

@@ -1,17 +1,18 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import { OSS } from "./OSS";
-import { Published, PublishedEnumValue } from "./Published";
+import { Native, NativeInfo } from "./Native";
+import { Web, WebInfo } from "./Web";
+import { Minecraft, MinecraftInfo } from "./Minecraft";
 import "./Works.css";
-import jaWorks from "../json/works/ja.json";
-import enWorks from "../json/works/en.json";
+import works from "../json/works.json";
 
 type WorksData = {
-  macOS: PublishedEnumValue[];
-  iOS: PublishedEnumValue[];
-  android: PublishedEnumValue[];
-  web: PublishedEnumValue[];
-  minecraft: PublishedEnumValue[];
+  macOS: NativeInfo[];
+  iOS: NativeInfo[];
+  android: NativeInfo[];
+  web: WebInfo[];
+  minecraft: MinecraftInfo[];
 };
 
 type Props = {
@@ -21,18 +22,17 @@ type Props = {
 export function Works(props: Props) {
   const { lang } = props;
   const { t } = useTranslation();
-
-  const worksData = (lang === "en" ? enWorks : jaWorks) as WorksData;
+  const worksData = works as WorksData;
 
   return (
     <div className="works" id="worksSection">
       <h2 className="title">{t("works")}</h2>
       <OSS />
-      <Published title={t("macOS_title")} values={worksData.macOS} />
-      <Published title={t("iOS_title")} values={worksData.iOS} />
-      <Published title={t("android_title")} values={worksData.android} />
-      <Published title={t("web_title")} values={worksData.web} />
-      <Published title={t("minecraft_title")} values={worksData.minecraft} />
+      <Native title={t("macos_title")} values={worksData.macOS} />
+      <Native title={t("ios_title")} values={worksData.iOS} />
+      <Native title={t("android_title")} values={worksData.android} />
+      <Web title={t("web_title")} values={worksData.web} />
+      <Minecraft title={t("minecraft_title")} values={worksData.minecraft} />
     </div>
   );
 }

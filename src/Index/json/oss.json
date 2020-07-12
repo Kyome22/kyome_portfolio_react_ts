@@ -1,26 +1,38 @@
 [
   {
     "url": "https://github.com/Kyome22/OpenMultitouchSupport",
-    "title": "OpenMultitouchSupport"
+    "title": "OpenMultitouchSupport",
+    "ja_description": "タッチパッドハックの成果物。",
+    "en_description": "The fruit of hacking the touchpad."
   },
   {
     "url": "https://github.com/Kyome22/SpiceKey",
-    "title": "SpiceKey"
+    "title": "SpiceKey",
+    "ja_description": "macOS用のグローバルショートカット登録ライブラリ。",
+    "en_description": "Global Shortcuts Library for macOS written by Swift."
   },
   {
     "url": "https://github.com/Kyome22/ActivityKit",
-    "title": "ActivityKit"
+    "title": "ActivityKit",
+    "ja_description": "macOSのシステム情報を取得するためのライブラリ。",
+    "en_description": "It provides macOS system information."
   },
   {
     "url": "https://github.com/Kyome22/SerialGate",
-    "title": "SerialGate"
+    "title": "SerialGate",
+    "ja_description": "macOS用のシリアル通信ライブラリ。",
+    "en_description": "Serial Communication Library for macOS written in Swift."
   },
   {
     "url": "https://github.com/Kyome22/Kaede",
-    "title": "Kaede"
+    "title": "Kaede",
+    "ja_description": "iOS向けの日本語入力システム。",
+    "en_description": "Japanese IME Project; Romaji -> Kana -> Kanaji"
   },
   {
     "url": "https://github.com/Kyome22/BooleanPath",
-    "title": "BooleanPath"
+    "title": "BooleanPath",
+    "ja_description": "NSBezierPathにパスファインダーを適用するライブラリ。",
+    "en_description": "Add boolean operations to NSBezierPath."
   }
 ]
