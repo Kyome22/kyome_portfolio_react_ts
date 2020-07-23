@@ -18,8 +18,8 @@
     },
     {
       "name": "ScreenPointer",
-      "ja_url": "https://kyome.io/screen_pointer/index_jp.html",
-      "en_url": "https://kyome.io/screen_pointer/index.html",
+      "ja_url": "https://kyome.io/screen_pointer/index.html?lang=ja",
+      "en_url": "https://kyome.io/screen_pointer/index.html?lang=en",
       "image": "macos/screenpointer.png",
       "ja_description": "ショートカットでマウスカーソルをポインターにできるプレゼンテーション支援アプリ。",
       "en_description": "This is an agent application that highlights the mouse as a pointer."
