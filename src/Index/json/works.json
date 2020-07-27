@@ -10,8 +10,8 @@
     },
     {
       "name": "TweetShot",
-      "ja_url": "https://kyome.io/tweetshot/index_jp.html",
-      "en_url": "https://kyome.io/tweetshot/index.html",
+      "ja_url": "https://kyome.io/tweetshot/index.html?lang=ja",
+      "en_url": "https://kyome.io/tweetshot/index.html?lang=en",
       "image": "macos/tweetshot.png",
       "ja_description": "高速ツイートに特化したTwitterクライアントアプリ。",
       "en_description": "This app makes it possible to Tweet at ultra speed with a shortcut."
