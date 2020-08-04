@@ -1,5 +1,5 @@
 document.write(
-  '<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-115400148-2"></script>'
+  '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-115400148-2"></script>'
 );
 window.dataLayer = window.dataLayer || [];
 function gtag() {
