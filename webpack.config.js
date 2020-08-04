@@ -59,6 +59,10 @@ module.exports = {
             ignore: ["**/.DS_Store"],
           },
         },
+        {
+          from: path.resolve(__dirname, "static", "analytics.js"),
+          to: path.resolve(__dirname, "dist", "js"),
+        },
       ],
     }),
     new WriteFilePlugin(),
