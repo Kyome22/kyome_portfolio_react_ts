@@ -28,9 +28,13 @@ export function Works(props: Props) {
     <div className="works" id="worksSection">
       <h2 className="title">{t("works")}</h2>
       <OSS />
-      <Native title={t("macos_title")} values={worksData.macOS} />
-      <Native title={t("ios_title")} values={worksData.iOS} />
-      <Native title={t("android_title")} values={worksData.android} />
+      <Native title={t("macos_title")} column={4} values={worksData.macOS} />
+      <Native title={t("ios_title")} column={3} values={worksData.iOS} />
+      <Native
+        title={t("android_title")}
+        column={1}
+        values={worksData.android}
+      />
       <Web title={t("web_title")} values={worksData.web} />
       <Minecraft title={t("minecraft_title")} values={worksData.minecraft} />
     </div>

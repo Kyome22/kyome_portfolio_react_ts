@@ -33,6 +33,14 @@
       "en_description": "This application can display a ruler or a protractor on the screen."
     },
     {
+      "name": "ScreenNote",
+      "ja_url": "https://apps.apple.com/jp/app/screennote/id1258500140",
+      "en_url": "https://apps.apple.com/us/app/screennote/id1258500140",
+      "image": "macos/screennote.png",
+      "ja_description": "デスクトップをキャンバスにしてお絵かきができるツール。",
+      "en_description": "This is a paint tool that allows you to draw shapes on the desktop like a canvas."
+    },
+    {
       "name": "GIFlash",
       "ja_url": "https://apps.apple.com/jp/app/giflash/id1507246566",
       "en_url": "https://apps.apple.com/us/app/giflash/id1507246566",
@@ -49,6 +57,14 @@
       "en_description": "APNG Maker is a tool that enables you to create an animated PNG from images or a video."
     },
     {
+      "name": "Movpeg4",
+      "ja_url": "https://apps.apple.com/jp/app/movpeg4/id1444944504",
+      "en_url": "https://apps.apple.com/us/app/movpeg4/id1444944504",
+      "image": "macos/movpeg4.png",
+      "ja_description": "MOVファイルをMP4ファイルに一瞬で変換できる動画変換アプリ。",
+      "en_description": "This is a utility application that converts mov format movie files to mp4 format."
+    },
+    {
       "name": "QuickMIDI",
       "ja_url": "https://apps.apple.com/jp/app/quickmidi/id1459790045",
       "en_url": "https://apps.apple.com/us/app/quickmidi/id1459790045",
@@ -57,20 +73,20 @@
       "en_description": "This enables you to connect your MIDI keyboard to Mac and play sounds easily."
     },
     {
-      "name": "ScreenNote",
-      "ja_url": "https://apps.apple.com/jp/app/screennote/id1258500140",
-      "en_url": "https://apps.apple.com/us/app/screennote/id1258500140",
-      "image": "macos/screennote.png",
-      "ja_description": "デスクトップをキャンバスにしてお絵かきができるツール。",
-      "en_description": "This is a paint tool that allows you to draw shapes on the desktop like a canvas."
+      "name": "HandyPalette",
+      "ja_url": "https://apps.apple.com/us/app/handypalette/id1515022667",
+      "en_url": "https://apps.apple.com/us/app/handypalette/id1515022667",
+      "image": "macos/handy_palette.png",
+      "ja_description": "必要最小限機能のカラーピッカー。",
+      "en_description": "The simplest color picker tool."
     },
     {
-      "name": "Movpeg4",
-      "ja_url": "https://apps.apple.com/jp/app/movpeg4/id1444944504",
-      "en_url": "https://apps.apple.com/us/app/movpeg4/id1444944504",
-      "image": "macos/movpeg4.png",
-      "ja_description": "MOVファイルをMP4ファイルに一瞬で変換できる動画変換アプリ。",
-      "en_description": "This is a utility application that converts mov format movie files to mp4 format."
+      "name": "NixieStats",
+      "ja_url": "https://apps.apple.com/jp/app/nixiestats/id1486093880",
+      "en_url": "https://apps.apple.com/us/app/nixiestats/id1486093880",
+      "image": "macos/nixiestats.png",
+      "ja_description": "ニキシー管風のアクティビティインジケータ。",
+      "en_description": "Nixie style activity indicator on the menubar."
     },
     {
       "name": "GitGrass",
@@ -95,22 +111,6 @@
       "image": "macos/secret_desktop.png",
       "ja_description": "デスクトップのアイコンを一時的に隠せるユーティリティアプリ。",
       "en_description": "This is a utility application that can hide the desktop icons temporarily."
-    },
-    {
-      "name": "HandyPalette",
-      "ja_url": "https://apps.apple.com/us/app/handypalette/id1515022667",
-      "en_url": "https://apps.apple.com/us/app/handypalette/id1515022667",
-      "image": "macos/handy_palette.png",
-      "ja_description": "必要最小限機能のカラーピッカー。",
-      "en_description": "The simplest color picker tool."
-    },
-    {
-      "name": "NixieStats",
-      "ja_url": "https://apps.apple.com/jp/app/nixiestats/id1486093880",
-      "en_url": "https://apps.apple.com/us/app/nixiestats/id1486093880",
-      "image": "macos/nixiestats.png",
-      "ja_description": "ニキシー管風のアクティビティインジケータ。",
-      "en_description": "Nixie style activity indicator on the menubar."
     },
     {
       "name": "Nekobot",
@@ -169,22 +169,6 @@
       "image": "ios/iroha.png",
       "ja_description": "モールス信号で文字を入力可能にするソフトウェアキーボードForethumbの和文版。",
       "en_description": "This is the Japanese version of Forethumb."
-    },
-    {
-      "name": "MorseConverter",
-      "ja_url": "https://apps.apple.com/jp/app/morseconverter/id1323511370",
-      "en_url": "https://apps.apple.com/us/app/morseconverter/id1323511370",
-      "image": "ios/morseconverter.png",
-      "ja_description": "ローマ字とモールス符号を相互変換する謎のツール。",
-      "en_description": "This is a mystery tool to convert romaji and morse code mutually."
-    },
-    {
-      "name": "レコアカ",
-      "ja_url": "https://apps.apple.com/jp/app/%E3%83%AC%E3%82%B3%E3%82%A2%E3%82%AB-%E5%AE%B6%E8%A8%88%E7%B0%BF%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA/id1237443649",
-      "en_url": "https://apps.apple.com/us/app/%E3%83%AC%E3%82%B3%E3%82%A2%E3%82%AB-%E5%AE%B6%E8%A8%88%E7%B0%BF%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA/id1237443649",
-      "image": "ios/recoaka.png",
-      "ja_description": "音声で家計簿をつけることができるユーティリティアプリ。",
-      "en_description": "This is a utility application that can record a household account book by voice."
     }
   ],
   "android": [
@@ -229,22 +213,26 @@
   ],
   "minecraft": [
     {
-      "name": "ワードプロセッサ",
+      "ja_name": "ワードプロセッサ",
+      "en_name": "Word Processor",
       "url": "https://youtu.be/fzAdXdbl_Do",
       "image": "minecraft/wordprocessor.png"
     },
     {
-      "name": "ワードプロセッサ改良型",
+      "ja_name": "ワードプロセッサ改良型",
+      "en_name": "Renewed Word Processor",
       "url": "https://youtu.be/birn0V3b8s0",
       "image": "minecraft/wordprocessor2.png"
     },
     {
-      "name": "マインスイーパー",
+      "ja_name": "マインスイーパー",
+      "en_name": "Minesweeper",
       "url": "https://youtu.be/05TLv8Ldu-g",
       "image": "minecraft/minesweeper.png"
     },
     {
-      "name": "アーケード音楽ゲーム機",
+      "ja_name": "アーケード音楽ゲーム機",
+      "en_name": "Music Game Machine",
       "url": "https://youtu.be/K70Sx_L9VPo",
       "image": "minecraft/musicgame.png"
     }

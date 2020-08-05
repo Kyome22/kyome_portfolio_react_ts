@@ -14,17 +14,18 @@ export type NativeInfo = {
 
 type Props = {
   title: string;
+  column: number;
   values: NativeInfo[];
 };
 
 export function Native(props: Props) {
-  const { title, values } = props;
+  const { title, column, values } = props;
   const lang = i18n.language;
   const { t } = useTranslation();
 
   const rows = values.reduce(
     (array, value) => {
-      if (array[array.length - 1].length < 4) {
+      if (array[array.length - 1].length < column) {
         array[array.length - 1].push(value);
       } else {
         array.push([value]);

@@ -3,7 +3,8 @@ import i18n from "i18next";
 import "./Published.css";
 
 export type MinecraftInfo = {
-  name: string;
+  ja_name: string;
+  en_name: string;
   url: string;
   image: string;
 };
@@ -35,12 +36,16 @@ export function Minecraft(props: Props) {
 
   const tds = (row: MinecraftInfo[]) => {
     return row.map((value, i) => {
+      let name = value.ja_name;
+      if (lang == "en") {
+        name = value.en_name;
+      }
       return (
         <td key={`td-${i}`}>
           <a href={value.url}>
             <img className="minecraft" src={"images/" + value.image} />
             <br />
-            {value.name}
+            {name}
           </a>
         </td>
       );
