@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import i18n from "i18next";
 import { initReactI18next, useTranslation } from "react-i18next";
 import { ParsedQuery } from "query-string";
+import { Helmet } from "react-helmet";
 import { Header } from "./Header";
 import { Profile } from "./Profile/Profile";
 import { Works } from "./Works/Works";
@@ -42,6 +43,7 @@ const App: React.FC<{ qs: ParsedQuery }> = (props) => {
 
   return (
     <div className="app">
+      <Helmet htmlAttributes={{ lang: lang }} />
       <Header onLangChange={onLangChange} />
       <div className="dummy-header" />
       <Profile />
