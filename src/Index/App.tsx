@@ -23,14 +23,14 @@ i18n.use(initReactI18next).init({
 });
 
 const App: React.FC<{ qs: ParsedQuery }> = (props) => {
-  const defaultLang = (qs: ParsedQuery) => {
+  const defaultLang = ((qs: ParsedQuery) => {
     if ("lang" in qs && qs.lang === "en") {
       return "en";
     }
     return "ja";
-  };
+  })(props.qs);
   const { i18n } = useTranslation();
-  const [lang, setLang] = useState(defaultLang(props.qs));
+  const [lang, setLang] = useState(defaultLang);
 
   useEffect(() => {
     i18n.changeLanguage(lang);

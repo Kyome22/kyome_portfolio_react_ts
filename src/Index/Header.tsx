@@ -21,9 +21,6 @@ export function Header(props: Props) {
         />
       </div>
       <h2 className="title">Takuto Nakamura's Portfolio</h2>
-      <h3 className="language" onClick={onLangChange}>
-        {t("language")}
-      </h3>
       <AnchorLink href="#profileSection" offset="80">
         <h3>{t("profile")}</h3>
       </AnchorLink>
@@ -39,8 +36,11 @@ export function Header(props: Props) {
         {t("articles")}
       </h3>
       <AnchorLink href="#linksSection" offset="80">
-        <h3 className="last">{t("links")}</h3>
+        <h3>{t("links")}</h3>
       </AnchorLink>
+      <h3 className="language" onClick={onLangChange}>
+        {t("language")}
+      </h3>
     </div>
   );
 }

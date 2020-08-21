@@ -41,6 +41,10 @@ h3.articles:hover {
   color: #666666;
 }
 
+.header h3.language {
+  margin-right: 15px;
+}
+
 .header a {
   color: #27292a;
   text-decoration: none;
@@ -48,8 +52,4 @@ h3.articles:hover {
 
 .header a:hover {
   color: #666666;
-}
-
-.header h3.last {
-  margin-right: 15px;
 }
