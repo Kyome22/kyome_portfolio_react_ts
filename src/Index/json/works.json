@@ -139,10 +139,10 @@
       "en_description": "This is a new falling block puzzle like Tetris slanted."
     },
     {
-      "name": "Keyboard×2",
-      "ja_url": "http://kyome.io/keyboardx2/index_jp.html",
-      "en_url": "http://kyome.io/keyboardx2/index.html",
-      "image": "ios/keyboardx2.png",
+      "name": "Keyboard²",
+      "ja_url": "http://kyome.io/keyboard2/index.html?lang=ja",
+      "en_url": "http://kyome.io/keyboard2/index.html?lang=en",
+      "image": "ios/keyboard2.png",
       "ja_description": "実際に弾くことができるピアノの機能を持ったソフトウェアキーボード。",
       "en_description": "This is a custom keyboard that enables you to play the keyboard on your iPhone & iPad!"
     },
@@ -156,16 +156,16 @@
     },
     {
       "name": "Forethumb",
-      "ja_url": "https://kyome.io/forethumb_ios/index_jp.html",
-      "en_url": "https://kyome.io/forethumb_ios/index.html",
+      "ja_url": "https://kyome.io/forethumb/index.html?device=ios&lang=ja",
+      "en_url": "https://kyome.io/forethumb/index.html?device=ios&lang=en",
       "image": "ios/forethumb.png",
       "ja_description": "モールス信号で文字を入力可能にするソフトウェアキーボード。日本語入力にはKaedeを使用。",
       "en_description": "Forethumb enables you to input characters on your iOS Device with morse code. This uses Kaede."
     },
     {
-      "name": "ふぉ〜さむ いろは",
-      "ja_url": "https://kyome.io/forethumb_iroha/index.html",
-      "en_url": "https://kyome.io/forethumb_iroha/index.html",
+      "name": "Forethumb いろは",
+      "ja_url": "https://kyome.io/forethumb/index.html?iroha=true",
+      "en_url": "https://kyome.io/forethumb/index.html?iroha=true",
       "image": "ios/iroha.png",
       "ja_description": "モールス信号で文字を入力可能にするソフトウェアキーボードForethumbの和文版。",
       "en_description": "This is the Japanese version of Forethumb."
@@ -174,8 +174,8 @@
   "android": [
     {
       "name": "Forethumb",
-      "ja_url": "https://kyome.io/forethumb_android/index_jp.html",
-      "en_url": "https://kyome.io/forethumb_android/index.html",
+      "ja_url": "https://kyome.io/forethumb/index.html?device=android&lang=ja",
+      "en_url": "https://kyome.io/forethumb/index.html?device=android&lang=en",
       "image": "android/forethumb.png",
       "ja_description": "モールス信号で文字を入力可能にするソフトウェアキーボードのAndroid版。",
       "en_description": "Forethumb for Android."
